@@ -1,13 +1,14 @@
-# virtual painter
-This project is about using openCV and mediapipe libraries   to utilize the webcamera for drawing in real time.   
-The main idea is:   
-* detect hands using mediapipe
-* detect wheither the index and middle fingers are up
-* detect fingers' tip location
-* draw a line when only the index finger is up and make a sellection when both index and middle fingers are up
-* draw on a black canvas then mask it with actual frame   
-to watch the demo of the program press [here](https://youtu.be/ZNPu2nwcXX4)
+# VRPaint
+USES:
+*OpenCV,
+*Mediapipe libraries
 
+The main idea is:   
+* Detect hands using mediapipe
+* Detect wheither the index and middle fingers are up
+* Detect fingers' tip location
+* Draw a line when only the index finger is up and make a sellection when both index and middle fingers are up
+* Draw on a black canvas then mask it with actual frame   
 
 # Installation
 There are some prerequisites that are needed to be done to be able to run this project.
