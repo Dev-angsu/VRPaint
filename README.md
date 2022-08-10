@@ -1,7 +1,7 @@
 # VRPaint
 USES:
-*OpenCV,
-*Mediapipe libraries
+* OpenCV,
+* Mediapipe libraries
 
 The main idea is:   
 * Detect hands using mediapipe
