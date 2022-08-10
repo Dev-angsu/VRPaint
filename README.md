@@ -21,4 +21,4 @@ now you can run the project directly from your terminal:
 python main.py
 ```
 If everything has gone right, a window will  pop up as in the below figure:
-![alt text](https://github.com/Dev-angsu/VRPaint/thumbnail.png)
+![](thumbnail.png)
